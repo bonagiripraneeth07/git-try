@@ -1,3 +1,10 @@
 hello world 
 this is my local machine code that will be pushed to git later.
 this is something new 
+
+we have different methods to print a statement on the console or terminal for every progaramming language
+like we use 
+printf("hello world ") in C ,
+console.log("hello world") in Java Script,
+Sytem.out.print("hello world") in Java,
+print("hello world" ) in Python
